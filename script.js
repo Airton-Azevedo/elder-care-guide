@@ -210,4 +210,3 @@ function startLang() {
 
 buttons.forEach(b => b.addEventListener("click", () => render(b.dataset.lang)));
 render(startLang());
-
