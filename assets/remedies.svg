@@ -1,0 +1,20 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Natural remedies</title>
+  <desc id="desc">Illustration of herbal remedies, tea and wellness support.</desc>
+  <rect width="640" height="420" rx="28" fill="#F4FBF8"/>
+  <path d="M120 296C120 256.235 153.235 223 193 223H445C484.765 223 518 256.235 518 296V330H120V296Z" fill="#D5E8DF"/>
+  <rect x="184" y="136" width="134" height="146" rx="26" fill="#F8F6E4"/>
+  <rect x="330" y="118" width="112" height="170" rx="24" fill="#F7EED2"/>
+  <path d="M214 134C214 101.967 239.967 76 272 76H280C312.033 76 338 101.967 338 134V165H214V134Z" fill="#9BC9AE"/>
+  <path d="M344 117C344 92.9675 363.968 73 388 73H394C418.032 73 438 92.9675 438 117V149H344V117Z" fill="#7EA4A7"/>
+  <path d="M239 165C250 148 266 138 286 138C308 138 327 151 335 170C298 188 256 191 239 165Z" fill="#80C7A7"/>
+  <path d="M352 151C361 138 377 131 393 131C409 131 425 138 434 151C399 166 365 166 352 151Z" fill="#9AD0CC"/>
+  <path d="M205 214C230 191 260 180 290 180C310 180 334 188 356 209C381 232 399 238 422 235L491 217C474 203 455 192 436 190C402 185 373 200 350 228C329 251 301 265 272 265C247 265 226 256 205 214Z" fill="#F5D16A"/>
+  <path d="M159 182C163 196 174 202 190 202C205 202 217 196 221 182" stroke="#0F5560" stroke-width="7" stroke-linecap="round"/>
+  <path d="M455 166C470 171 482 178 491 190" stroke="#0F5560" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="144" cy="100" r="24" fill="#F3B544"/>
+  <circle cx="501" cy="94" r="21" fill="#F3B544"/>
+  <path d="M121 101C134 80 159 73 181 83" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+  <path d="M479 95C492 76 518 70 540 80" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+</svg>
+

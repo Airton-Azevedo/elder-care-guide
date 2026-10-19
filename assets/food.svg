@@ -1,0 +1,20 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Food and digestion</title>
+  <desc id="desc">Illustration of a meal, vegetables and gentle digestion reference.</desc>
+  <rect width="640" height="420" rx="28" fill="#F5FBF8"/>
+  <path d="M110 310C110 247.617 159.617 198 222 198H418C480.383 198 530 247.617 530 310V330H110V310Z" fill="#DDEEE1"/>
+  <ellipse cx="320" cy="216" rx="170" ry="110" fill="#F7F3E6"/>
+  <path d="M216 216C216 165.999 257.999 124 308 124H334C384.001 124 426 165.999 426 216V238H216V216Z" fill="#7DC1B0"/>
+  <path d="M280 146C287 132 304 123 321 123C338 123 355 132 362 146C320 157 280 159 280 146Z" fill="#7AB86D"/>
+  <path d="M205 242C218 200 250 180 288 180C314 180 338 192 362 219C389 182 420 180 431 205C443 231 430 267 408 283C340 319 261 311 219 274C208 265 202 253 205 242Z" fill="#F9D98F"/>
+  <circle cx="205" cy="170" r="34" fill="#F6AD52"/>
+  <circle cx="434" cy="150" r="31" fill="#E7B66F"/>
+  <circle cx="160" cy="120" r="24" fill="#B5D77A"/>
+  <circle cx="485" cy="205" r="20" fill="#B5D77A"/>
+  <path d="M184 94C198 70 229 62 251 80" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+  <path d="M472 112C487 92 519 89 540 107" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+  <path d="M158 268C137 248 141 214 171 204" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+  <path d="M483 286C498 263 527 260 545 280" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+  <path d="M292 274C310 294 333 303 357 292" stroke="#0F5560" stroke-width="7" stroke-linecap="round"/>
+</svg>
+

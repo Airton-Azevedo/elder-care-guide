@@ -1,0 +1,20 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Healthy habits</title>
+  <desc id="desc">Illustration of daily healthy habits such as walking, hydration and a calm routine.</desc>
+  <rect width="640" height="420" rx="28" fill="#F6FBFF"/>
+  <circle cx="118" cy="108" r="55" fill="#F8D26B" fill-opacity="0.7"/>
+  <path d="M128 210C128 170.235 160.235 138 200 138H254C281.614 138 304 160.386 304 188V291H128V210Z" fill="#D9EEF2"/>
+  <circle cx="205" cy="102" r="45" fill="#F3D6B8"/>
+  <path d="M177 146C177 123.909 194.909 106 217 106H228C250.091 106 268 123.909 268 146V198H177V146Z" fill="#0F5560"/>
+  <path d="M252 230C272 217 292 214 314 218" stroke="#0F5560" stroke-width="10" stroke-linecap="round"/>
+  <path d="M311 218L338 248L295 282" stroke="#0F5560" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M355 172C355 146.595 376.595 126 402 126H411C436.405 126 458 146.595 458 172V298H355V172Z" fill="#DCEEF0"/>
+  <circle cx="406" cy="106" r="38" fill="#F4D9BF"/>
+  <path d="M375 168C375 147.013 392.013 130 413 130H421C441.987 130 459 147.013 459 168V298H375V168Z" fill="#F2B544"/>
+  <path d="M494 237C505 206 527 185 555 183" stroke="#0F5560" stroke-width="9" stroke-linecap="round"/>
+  <rect x="481" y="255" width="82" height="43" rx="18" fill="#A8D7D4"/>
+  <path d="M102 292H457" stroke="#9FC1C8" stroke-width="12" stroke-linecap="round"/>
+  <path d="M168 150C163 118 184 94 213 86" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+  <path d="M506 120C498 149 504 181 533 195" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+</svg>
+

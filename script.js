@@ -6,11 +6,11 @@ const T = {
     emerg: ["Emergência: ligue antes de qualquer outra coisa", "Brasil: 192 (SAMU) ou 193 (Bombeiros). Portugal e Espanha: 112."],
     sec: [
       { id: "socorros", nav: "Primeiros socorros", h: "Primeiros socorros", intro: "Ligue para a emergência primeiro e siga as orientações do atendente.", items: [
-        ["Engasgo", "Se a pessoa não consegue falar, tossir nem respirar, ligue para a emergência e faça a manobra de Heimlich: abrace por trás, feche uma mão acima do umbigo e puxe com força para dentro e para cima, repetindo até o objeto sair. Se ela desmaiar, comece as compressões no peito."],
-        ["Queda", "Não levante a pessoa se houver dor forte no pescoço, nas costas, no quadril, deformidade ou batida na cabeça. Mantenha-a calma e parada e ligue para a emergência. Se não houver dor e ela conseguir se mexer, ajude a sentar devagar e observe por 24 horas: tontura, vômito ou sonolência exigem avaliação médica."],
+        ["Engasgo", "Se a pessoa não consegue falar, tossir nem respirar, ligue para a emergência e faça a manobra de Heimlich: abrace por trás, feche uma mão acima do umbigo e puxe com força."],
+        ["Queda", "Não levante a pessoa se houver dor forte no pescoço, nas costas, no quadril, deformidade ou batida na cabeça. Mantenha-a calma e parada e ligue para a emergência."],
         ["Sinais de AVC", "Rosto torto, braço fraco ou fala enrolada de repente: anote a hora em que começou e ligue na hora. Não dê comida, água nem remédios."],
-        ["Parada cardíaca", "Se não responde e não respira normalmente, ligue para a emergência e faça compressões no centro do peito, fortes e rápidas (100 a 120 por minuto), sem parar até a equipe chegar."],
-        ["Queimadura leve", "Deixe água corrente fria por 10 a 20 minutos e cubra com pano limpo. Não use gelo, pasta de dente, manteiga nem fure bolhas. Queimadura grande ou no rosto exige atendimento médico."]
+        ["Parada cardíaca", "Se não responde e não respira normalmente, ligue para a emergência e faça compressões no centro do peito, fortes e rápidas (100 a 120 por minuto), sem parar."],
+        ["Queimadura leve", "Deixe água corrente fria por 10 a 20 minutos e cubra com pano limpo. Não use gelo, pasta de dente, manteiga nem fure bolhas."],
       ] },
       { id: "alimentos", nav: "Alimentos", h: "Alimentos de difícil digestão", intro: "Com a idade a digestão fica mais lenta. Cada pessoa reage de um jeito: observe e converse com o médico ou nutricionista.", items: [
         ["Frituras e comidas muito gordurosas", "Demoram para digerir e causam azia, estufamento e sono pesado. Prefira cozidos, assados e grelhados."],
@@ -27,7 +27,7 @@ const T = {
         ["Erva-doce e hortelã", "Ajudam na digestão e nos gases. Quem tem refluxo deve evitar a hortelã."],
         ["Mel", "Pode aliviar tosse leve. Diabéticos só com orientação médica."],
         ["Aveia e linhaça", "Ajudam o intestino preso, desde que acompanhadas de bastante água."]
-      ], warn: "Natural não quer dizer sem risco. Ginkgo, erva-de-são-joão e valeriana, entre outras, podem interagir com remédios. Se a pessoa usa medicamentos (pressão, diabetes, anticoagulantes), pergunte antes ao médico ou ao farmacêutico." },
+      ], warn: "Natural não quer dizer sem risco. Ginkgo, erva-de-são-joão e valeriana, entre outras, podem interagir com remédios. Se a pessoa usa medicamentos (pressão, diabetes, anticoagulantes), consulte o médico antes de usar chás e suplementos." },
       { id: "habitos", nav: "Hábitos", h: "Hábitos que ajudam", intro: "Pequenas rotinas, repetidas todos os dias, fazem muita diferença.", items: [
         ["Caminhar todos os dias", "Cerca de 30 minutos, no ritmo da pessoa, mantêm músculos, equilíbrio e humor."],
         ["Beber água ao longo do dia", "A sede diminui com a idade. Ofereça água mesmo sem pedido."],
@@ -49,11 +49,11 @@ const T = {
     emerg: ["Emergency: call before anything else", "Brazil: 192 (ambulance) or 193 (fire dept.). Europe: 112. USA and Canada: 911."],
     sec: [
       { id: "socorros", nav: "First aid", h: "First aid", intro: "Call emergency services first and follow the dispatcher's instructions.", items: [
-        ["Choking", "If the person cannot speak, cough or breathe, call emergency services and do the Heimlich maneuver: hug from behind, place a fist above the navel and pull hard inward and upward, repeating until the object comes out. If they pass out, start chest compressions."],
-        ["Falls", "Do not lift the person if there is strong pain in the neck, back or hip, a visible deformity, or a blow to the head. Keep them calm and still and call emergency services. If there is no pain and they can move, help them sit up slowly and watch for 24 hours: dizziness, vomiting or drowsiness need a medical check."],
+        ["Choking", "If the person cannot speak, cough or breathe, call emergency services and do the Heimlich maneuver: hug from behind, place a fist above the navel and pull hard inward and upward."],
+        ["Falls", "Do not lift the person if there is strong pain in the neck, back or hip, a visible deformity, or a blow to the head. Keep them calm and still and call emergency services."],
         ["Stroke signs", "Sudden drooping face, weak arm or slurred speech: note the time it started and call right away. Give no food, water or medicine."],
-        ["Cardiac arrest", "If the person does not respond and is not breathing normally, call emergency services and press hard and fast in the center of the chest (100 to 120 per minute), without stopping until help arrives."],
-        ["Minor burns", "Hold under cool running water for 10 to 20 minutes and cover with a clean cloth. Do not use ice, toothpaste or butter, and do not pop blisters. Large burns or burns on the face need medical care."]
+        ["Cardiac arrest", "If the person does not respond and is not breathing normally, call emergency services and press hard and fast in the center of the chest (100 to 120 per minute), without stopping."],
+        ["Minor burns", "Hold under cool running water for 10 to 20 minutes and cover with a clean cloth. Do not use ice, toothpaste or butter, and do not pop blisters."],
       ] },
       { id: "alimentos", nav: "Foods", h: "Foods that are hard to digest", intro: "Digestion slows with age. Everyone reacts differently: observe and talk to a doctor or dietitian.", items: [
         ["Fried and very fatty foods", "They digest slowly and cause heartburn, bloating and heavy sleep. Prefer boiled, baked or grilled food."],
@@ -70,7 +70,7 @@ const T = {
         ["Fennel and mint", "They help digestion and gas. People with reflux should avoid mint."],
         ["Honey", "It can ease a mild cough. People with diabetes only under medical guidance."],
         ["Oats and flaxseed", "They help constipation, as long as there is plenty of water."]
-      ], warn: "Natural does not mean risk-free. Ginkgo, St. John's wort and valerian, among others, can interact with medicines. If the person takes medication (blood pressure, diabetes, blood thinners), ask a doctor or pharmacist first." },
+      ], warn: "Natural does not mean risk-free. Ginkgo, St. John's wort and valerian, among others, can interact with medicines. If the person takes medication (blood pressure, diabetes, blood thinners), talk with a doctor before using teas and supplements." },
       { id: "habitos", nav: "Habits", h: "Helpful habits", intro: "Small routines repeated every day make a big difference.", items: [
         ["Walk every day", "About 30 minutes, at the person's pace, keep muscles, balance and mood in shape."],
         ["Drink water through the day", "Thirst fades with age. Offer water even if they do not ask."],
@@ -92,13 +92,13 @@ const T = {
     emerg: ["Emergencia: llame antes que nada", "España y Europa: 112. Brasil: 192 (ambulancia) o 193 (bomberos). México: 911."],
     sec: [
       { id: "socorros", nav: "Primeros auxilios", h: "Primeros auxilios", intro: "Llame primero a emergencias y siga las indicaciones del operador.", items: [
-        ["Atragantamiento", "Si la persona no puede hablar, toser ni respirar, llame a emergencias y haga la maniobra de Heimlich: abrace por detrás, coloque un puño sobre el ombligo y tire con fuerza hacia dentro y hacia arriba, repitiendo hasta que salga el objeto. Si se desmaya, comience las compresiones en el pecho."],
-        ["Caída", "No levante a la persona si hay dolor fuerte en el cuello, la espalda o la cadera, deformidad o golpe en la cabeza. Manténgala tranquila e inmóvil y llame a emergencias. Si no hay dolor y puede moverse, ayúdela a sentarse despacio y observe durante 24 horas: mareo, vómitos o somnolencia requieren evaluación médica."],
+        ["Atragantamiento", "Si la persona no puede hablar, toser ni respirar, llame a emergencias y haga la maniobra de Heimlich: abrace por detrás, coloque un puño sobre el ombligo y tire con fuerza hacia adentro y arriba."],
+        ["Caída", "No levante a la persona si hay dolor fuerte en el cuello, la espalda o la cadera, deformidad o golpe en la cabeza. Manténgala tranquila e inmóvil y llame a emergencias."],
         ["Señales de ictus", "Cara caída, brazo débil o habla confusa de repente: anote la hora de inicio y llame de inmediato. No dé comida, agua ni medicinas."],
-        ["Paro cardíaco", "Si no responde y no respira con normalidad, llame a emergencias y haga compresiones en el centro del pecho, fuertes y rápidas (100 a 120 por minuto), sin parar hasta que llegue el equipo."],
-        ["Quemadura leve", "Ponga la zona bajo agua fría corriente de 10 a 20 minutos y cúbrala con un paño limpio. No use hielo, pasta de dientes ni mantequilla, ni reviente las ampollas. Una quemadura grande o en la cara necesita atención médica."]
+        ["Paro cardíaco", "Si no responde y no respira con normalidad, llame a emergencias y haga compresiones en el centro del pecho, fuertes y rápidas (100 a 120 por minuto), sin parar."],
+        ["Quemadura leve", "Ponga la zona bajo agua fría corriente de 10 a 20 minutos y cúbrala con un paño limpio. No use hielo, pasta de dientes ni mantequilla, ni reviente las ampollas."],
       ] },
-      { id: "alimentos", nav: "Alimentos", h: "Alimentos de difícil digestión", intro: "Con la edad la digestión se vuelve más lenta. Cada persona reacciona distinto: observe y consulte con el médico o el nutricionista.", items: [
+      { id: "alimentos", nav: "Alimentos", h: "Alimentos de difícil digestión", intro: "Con la edad la digestión se vuelve más lenta. Cada persona reacciona distinto: observe y consulte con el médico o nutricionista.", items: [
         ["Fritos y comidas muy grasas", "Tardan en digerirse y causan acidez, hinchazón y sueño pesado. Prefiera cocidos, al horno y a la plancha."],
         ["Embutidos y carnes grasas", "Salchichas, jamón y tocino tienen mucha sal y grasa, lo que pesa en la digestión y en la tensión."],
         ["Leche y derivados, si hay gases o diarrea", "La intolerancia a la lactosa es común con la edad. Si molesta, pruebe versiones sin lactosa."],
@@ -111,9 +111,9 @@ const T = {
         ["Melisa", "Infusión suave que calma y ayuda a dormir."],
         ["Jengibre", "En poca cantidad ayuda con las náuseas y la digestión. Precaución si usa anticoagulantes."],
         ["Hinojo y menta", "Ayudan con la digestión y los gases. Quien tiene reflujo debe evitar la menta."],
-        ["Miel", "Puede aliviar una tos leve. Las personas con diabetes, solo con indicación médica."],
+        ["Miel", "Puede aliviar una tos leve. Personas con diabetes, solo con indicación médica."],
         ["Avena y linaza", "Ayudan con el estreñimiento, siempre con mucha agua."]
-      ], warn: "Natural no significa sin riesgo. El ginkgo, la hierba de San Juan y la valeriana, entre otras, pueden interactuar con medicamentos. Si la persona toma medicinas (tensión, diabetes, anticoagulantes), consulte antes con el médico o el farmacéutico." },
+      ], warn: "Natural no significa sin riesgo. El ginkgo, la hierba de San Juan y la valeriana, entre otras, pueden interactuar con medicamentos. Si la persona toma medicinas (tensión, diabetes, anticoagulantes), consulte al médico antes de usar infusiones o suplementos." },
       { id: "habitos", nav: "Hábitos", h: "Hábitos que ayudan", intro: "Pequeñas rutinas repetidas cada día marcan una gran diferencia.", items: [
         ["Caminar todos los días", "Unos 30 minutos, al ritmo de la persona, mantienen músculos, equilibrio y ánimo."],
         ["Beber agua durante el día", "La sed disminuye con la edad. Ofrezca agua aunque no la pida."],
@@ -134,20 +134,66 @@ const app = document.getElementById("app");
 const nav = document.getElementById("nav");
 const buttons = document.querySelectorAll(".lang button");
 const htmlLang = { pt: "pt-BR", en: "en", es: "es" };
+const visualMap = {
+  socorros: "assets/first-aid.svg",
+  alimentos: "assets/food.svg",
+  remedios: "assets/remedies.svg",
+  habitos: "assets/habits.svg"
+};
+const heroArt = "assets/caregiver.svg";
 
 function render(code) {
   const d = T[code];
+  const alt = {
+    pt: {
+      hero: "Ilustração de cuidado com pessoas idosas",
+      socorros: "Ilustração de primeiros socorros",
+      alimentos: "Ilustração de alimentação e digestão",
+      remedios: "Ilustração de remédios naturais",
+      habitos: "Ilustração de hábitos saudáveis"
+    },
+    en: {
+      hero: "Illustration of caring for older adults",
+      socorros: "First aid illustration",
+      alimentos: "Food and digestion illustration",
+      remedios: "Natural remedies illustration",
+      habitos: "Healthy habits illustration"
+    },
+    es: {
+      hero: "Ilustración de cuidado de personas mayores",
+      socorros: "Ilustración de primeros auxilios",
+      alimentos: "Ilustración de alimentación y digestión",
+      remedios: "Ilustración de remedios naturales",
+      habitos: "Ilustración de hábitos saludables"
+    }
+  }[code];
+
   document.documentElement.lang = htmlLang[code];
   document.title = d.doc;
   nav.innerHTML = d.sec.map(s => `<a href="#${s.id}">${s.nav}</a>`).join("");
   app.innerHTML =
-    `<h1>${d.h1}</h1><p class="lead">${d.lead}</p>` +
+    `<div class="hero">
+      <div class="hero-copy">
+        <h1>${d.h1}</h1>
+        <p class="lead">${d.lead}</p>
+      </div>
+      <div class="hero-art">
+        <img src="${heroArt}" alt="${alt.hero}">
+      </div>
+    </div>` +
     `<div class="emerg" role="note"><strong>${d.emerg[0]}</strong><p>${d.emerg[1]}</p></div>` +
     d.sec.map(s =>
-      `<section id="${s.id}"><h2>${s.h}</h2><p>${s.intro}</p>` +
-      s.items.map(i => `<details><summary>${i[0]}</summary><p>${i[1]}</p></details>`).join("") +
-      (s.warn ? `<p class="warn">${s.warn}</p>` : "") +
-      `</section>`
+      `<section id="${s.id}">
+        <div class="section-header">
+          <div class="section-copy">
+            <h2>${s.h}</h2>
+            <p>${s.intro}</p>
+          </div>
+          <img class="section-image" src="${visualMap[s.id]}" alt="${alt[s.id]}">
+        </div>
+        ${s.items.map(i => `<details><summary>${i[0]}</summary><p>${i[1]}</p></details>`).join("")}
+        ${s.warn ? `<p class="warn">${s.warn}</p>` : ""}
+      </section>`
     ).join("") +
     `<footer>${d.foot}</footer>`;
   buttons.forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === code)));
@@ -164,3 +210,4 @@ function startLang() {
 
 buttons.forEach(b => b.addEventListener("click", () => render(b.dataset.lang)));
 render(startLang());
+

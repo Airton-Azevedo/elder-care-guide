@@ -1,0 +1,26 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Caregiver and older adult</title>
+  <desc id="desc">Illustration of a caregiver helping an older adult with a warm home atmosphere.</desc>
+  <rect width="640" height="420" rx="28" fill="#EAF5F5"/>
+  <circle cx="515" cy="106" r="52" fill="#F5D16A" fill-opacity="0.7"/>
+  <rect x="70" y="250" width="500" height="92" rx="26" fill="#DDEFE4"/>
+  <rect x="94" y="157" width="118" height="118" rx="32" fill="#F7C8A7"/>
+  <circle cx="154" cy="123" r="46" fill="#F6DDBE"/>
+  <path d="M116 188C116 163.967 134.967 145 159 145H168C192.033 145 211 163.967 211 188V217H116V188Z" fill="#2F7F8C"/>
+  <circle cx="250" cy="110" r="38" fill="#F2D4BB"/>
+  <path d="M214 152C214 127.967 234.967 109 259 109H270C294.033 109 315 127.967 315 152V204H214V152Z" fill="#0F5560"/>
+  <rect x="333" y="118" width="104" height="150" rx="22" fill="#D0E5F2"/>
+  <circle cx="385" cy="86" r="36" fill="#F5DAB8"/>
+  <path d="M355 145C355 123.461 372.461 106 394 106H405C426.539 106 444 123.461 444 145V204H355V145Z" fill="#F3B544"/>
+  <path d="M320 224L386 196L456 222" stroke="#9FC0C8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M168 215L244 223" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+  <path d="M224 274H468" stroke="#8BB5BA" stroke-width="12" stroke-linecap="round"/>
+  <path d="M420 214C429 164 482 145 512 152" stroke="#0F5560" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="520" cy="146" r="10" fill="#F2B544"/>
+  <rect x="150" y="300" width="84" height="26" rx="13" fill="#F3B544"/>
+  <rect x="420" y="300" width="80" height="26" rx="13" fill="#7AB0B8"/>
+  <path d="M465 110C478 87 504 75 528 82" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+  <path d="M138 62C157 43 183 37 206 46" stroke="#0F5560" stroke-width="8" stroke-linecap="round"/>
+  <path d="M269 58L279 80L301 85L282 100L286 122L269 110L252 122L256 100L237 85L259 80L269 58Z" fill="#F2B544"/>
+</svg>
+
